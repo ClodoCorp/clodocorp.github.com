@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[blog.clodo.ru]]></title>
+  <link href="http://clodocorp.github.com/atom.xml" rel="self"/>
+  <link href="http://clodocorp.github.com/"/>
+  <updated>2012-07-16T11:45:24+04:00</updated>
+  <id>http://clodocorp.github.com/</id>
+  <author>
+    <name><![CDATA[Clodo Team]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

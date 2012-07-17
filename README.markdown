@@ -15,21 +15,25 @@
 Сначала надо поставить [RVM](https://rvm.io//rvm/install/), если его
 нет. Далее считаем что система чистая.
 
- $ git clone git@github.com:ClodoCorp/clodocorp.github.com.git blog.clodo.ru
- $ cd blog.clodo.ru
- $ bundle install
- $ git checkout source
- $ mkdir _deploy && cd _deploy
- $ git init 
- $ git remote add origin git@github.com:ClodoCorp/clodocorp.github.com.git
- $ git pull origin master
- $ cd ..
+```
+$ git clone git@github.com:ClodoCorp/clodocorp.github.com.git blog.clodo.ru
+$ cd blog.clodo.ru
+$ bundle install
+$ git checkout source
+$ mkdir _deploy && cd _deploy
+$ git init 
+$ git remote add origin git@github.com:ClodoCorp/clodocorp.github.com.git
+$ git pull origin master
+$ cd ..
+```
 
 Далее по обычному сценарию принимаем pull-реквесты и коммитим. Что бы
 всё опубликовать просто делаем
 
- $ rake generate
- $ rake deploy
+```
+$ rake generate
+$ rake deploy
+```
 
 ## What is Octopress?
 

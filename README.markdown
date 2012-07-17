@@ -1,3 +1,36 @@
+## blog.clodo.ru для авторов
+
+Непосредственно писать в блог имеет право ограниченный круг людей. В
+идеале это вообще роботы. Так что если надо написать пост или что-то
+исправить, то придерживаемся следующей процедуры:
+
+* Форкаете репозиторий
+* В своём клоне в бранче от source делаете красивый коммит с постом. Если
+  вы особо приближённый к мастерам автор, то можете делать это в
+  бранче от source в основном репозитарии.
+* Создаёте pull-реквест
+
+## blog.clodo.ru для мастеров
+
+Сначала надо поставить [RVM](https://rvm.io//rvm/install/), если его
+нет. Далее считаем что система чистая.
+
+ $ git clone git@github.com:ClodoCorp/clodocorp.github.com.git blog.clodo.ru
+ $ cd blog.clodo.ru
+ $ bundle install
+ $ git checkout source
+ $ mkdir _deploy && cd _deploy
+ $ git init 
+ $ git remote add origin git@github.com:ClodoCorp/clodocorp.github.com.git
+ $ git pull origin master
+ $ cd ..
+
+Далее по обычному сценарию принимаем pull-реквесты и коммитим. Что бы
+всё опубликовать просто делаем
+
+ $ rake generate
+ $ rake deploy
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.

@@ -18,8 +18,8 @@
 ```
 $ git clone git@github.com:ClodoCorp/clodocorp.github.com.git blog.clodo.ru
 $ cd blog.clodo.ru
-$ bundle install
 $ git checkout source
+$ bundle install
 $ mkdir _deploy && cd _deploy
 $ git init 
 $ git remote add origin git@github.com:ClodoCorp/clodocorp.github.com.git

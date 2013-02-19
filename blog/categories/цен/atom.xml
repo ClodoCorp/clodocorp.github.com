@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[blog.clodo.ru]]></title>
-  <link href="http://clodocorp.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: цен | blog.clodo.ru]]></title>
+  <link href="http://clodocorp.github.com/blog/categories/цен/atom.xml" rel="self"/>
   <link href="http://clodocorp.github.com/"/>
   <updated>2013-02-19T12:52:58+04:00</updated>
   <id>http://clodocorp.github.com/</id>
@@ -43,7 +43,7 @@
 </ul>
 </li>
 <li>Элемент 4</li>
-<li>&#8220;Элемент 5&#8221;, название <em>в кавычках</em>, <em>продолжает</em> тестирование</li>
+<li>"Элемент 5", название <em>в кавычках</em>, <em>продолжает</em> тестирование</li>
 </ul>
 
 ]]></content>

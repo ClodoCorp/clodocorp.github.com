@@ -4,7 +4,7 @@
   <title><![CDATA[Category: цен | blog.clodo.ru]]></title>
   <link href="http://clodocorp.github.com/blog/categories/цен/atom.xml" rel="self"/>
   <link href="http://clodocorp.github.com/"/>
-  <updated>2013-02-20T10:57:51+04:00</updated>
+  <updated>2013-02-20T10:58:46+04:00</updated>
   <id>http://clodocorp.github.com/</id>
   <author>
     <name><![CDATA[Clodo Team]]></name>
@@ -47,10 +47,11 @@
 </ul>
 
 
-<blockquote><p>And it includes blockquotes
-<a href="http://clodo.ru">And a link</a></p>
+<blockquote><p>And it includes blockquotes</p></blockquote>
 
-<hr /></blockquote>
+<p><a href="http://clodo.ru">And a link</a></p>
+
+<hr />
 ]]></content>
   </entry>
   

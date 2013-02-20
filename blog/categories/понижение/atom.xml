@@ -4,7 +4,7 @@
   <title><![CDATA[Category: понижение | blog.clodo.ru]]></title>
   <link href="http://clodocorp.github.com/blog/categories/понижение/atom.xml" rel="self"/>
   <link href="http://clodocorp.github.com/"/>
-  <updated>2013-02-19T12:52:58+04:00</updated>
+  <updated>2013-02-20T10:57:51+04:00</updated>
   <id>http://clodocorp.github.com/</id>
   <author>
     <name><![CDATA[Clodo Team]]></name>
@@ -43,9 +43,14 @@
 </ul>
 </li>
 <li>Элемент 4</li>
-<li>"Элемент 5", название <em>в кавычках</em>, <em>продолжает</em> тестирование</li>
+<li>"Элемент 5", название <strong>в кавычках</strong>, <em>продолжает</em> тестирование</li>
 </ul>
 
+
+<blockquote><p>And it includes blockquotes
+<a href="http://clodo.ru">And a link</a></p>
+
+<hr /></blockquote>
 ]]></content>
   </entry>
   

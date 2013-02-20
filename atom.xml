@@ -4,7 +4,7 @@
   <title><![CDATA[blog.clodo.ru]]></title>
   <link href="http://clodocorp.github.com/atom.xml" rel="self"/>
   <link href="http://clodocorp.github.com/"/>
-  <updated>2013-02-20T12:36:05+04:00</updated>
+  <updated>2013-02-20T14:30:23+04:00</updated>
   <id>http://clodocorp.github.com/</id>
   <author>
     <name><![CDATA[Clodo Team]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test for vills]]></title>
+    <link href="http://clodocorp.github.com/blog/2013/02/test-for-vills/"/>
+    <updated>2013-02-20T14:29:00+04:00</updated>
+    <id>http://clodocorp.github.com/blog/2013/02/test-for-vills</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Привет, мир!]]></title>
